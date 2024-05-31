@@ -164,11 +164,11 @@ new_str1 = " 去除前后空格 "
 print(f"去除前后空格：{new_str1.strip()}")
 
 new_str1 = "空格12"
-print(f"去除字符串：{new_str1.strip("12")}")
+#print(f"去除字符串：{new_str1.strip("12")}")
 
 # str 字符串 统计字符串中某字符串的出现次数 count()
 new_str1 = "1112789"
-print(f"统计字符串中某字符串的出现次数：{new_str1.count("1")}")
+#print(f"统计字符串中某字符串的出现次数：{new_str1.count("1")}")
 
 # str 字符串 长度 len()
 print(f"长度：{len(new_str1)}")
