@@ -5,7 +5,7 @@ def outer(logo):
     return inner
 
 
-fn1 = outer("马里奥")
+fn1 = outer("马里奥2")
 fn1("哈哈")
 
 
